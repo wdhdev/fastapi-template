@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ```
 uvicorn main:app --port 3000
 ```
+
+## 📝 Notes
+- `router.py` contains all of the endpoints of the API.
