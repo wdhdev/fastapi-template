@@ -1,6 +1,8 @@
 # ⚡ FastAPI Template
 An example template of a Python API made using FastAPI.
 
+![Languages](https://skillicons.dev/icons?i=python,fastapi)
+
 ## 🏃‍♂️ Running the API
 1. Install the required dependencies using the following command:
 
